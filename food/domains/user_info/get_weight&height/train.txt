@@ -1,0 +1,20 @@
+I weigh {60|weight} kilograms and I'm {1.83|height} meters tall.
+My weight is {65|weight} kg and my height is {1.75|height} m.
+I currently weigh {70|weight} kilograms and stand {1.80|height} meters tall.
+I have a weight of {55|weight} kg and a height of {1.68|height} m.
+My body weight is {75|weight} kilograms and my height measures {1.82|height} meters.
+I'm {1.90|height} meters tall and I weigh {85|weight} kg.
+I stand at {1.65|height} meters and weigh {58|weight} kilograms.
+My height is {1.73|height} meters and I have a weight of {62|weight} kg.
+I weigh {80|weight} kilograms and have a height of {1.88|height} meters.
+My weight stands at {50|weight} kg while my height is {1.60|height} m.
+I am {1.78|height} meters tall and my weight is {68|weight} kilograms.
+My current weight is {72|weight} kg and I am {1.84|height} meters in height.
+I have a height of {1.70|height} meters and weigh {64|weight} kg.
+I weigh {90|weight} kilograms and stand {1.92|height} meters tall.
+My height measures {1.76|height} meters and I weigh {74|weight} kg.
+I'm {1.63|height} meters tall with a weight of {56|weight} kilograms.
+I am {1.87|height} meters in height and weigh {82|weight} kg.
+My weight is {66|weight} kilograms and I stand at {1.72|height} meters tall.
+I have a weight of {78|weight} kg and a height of {1.81|height} meters.
+I weigh {52|weight} kilograms and I am {1.62|height} meters tall.

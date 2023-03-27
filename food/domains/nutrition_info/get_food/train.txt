@@ -1,0 +1,40 @@
+I enjoy {sushi|food_name|liked_food}
+I love {pizza|food_name|liked_food}!
+I adore {tacos|food_name|liked_food}
+I fancy {pasta|food_name|liked_food}
+I'm a fan of {burgers|food_name|liked_food}!
+I appreciate a good {salad|food_name|liked_food}
+I like {fried chicken|food_name|liked_food}
+I delight in {ice cream|food_name|liked_food}!
+I relish a tasty {sandwich|food_name|liked_food}
+I'm keen on {falafel|food_name|liked_food}!
+I have a taste for {dim sum|food_name|liked_food}!
+I find {curry|food_name|liked_food} irresistible
+I crave {cheesecake|food_name|liked_food}
+I'm partial to {barbecue|food_name|liked_food}!
+I'm all about {ramen|food_name|liked_food}!
+I'm drawn to {chocolate|food_name|liked_food}
+I'm smitten with {pad thai|food_name|liked_food}
+I can't resist a good {steak|food_name|liked_food}
+I'm captivated by {fruit smoothies|food_name|liked_food}
+I treasure {fresh seafood|food_name|liked_food}
+I dislike {anchovies|food_name|hated_food}
+I can't stand {olives|food_name|hated_food}!
+I'm not a fan of {blue cheese|food_name|hated_food}
+I don't enjoy {liver|food_name|hated_food}
+I find {brussels sprouts|food_name|hated_food} unappealing!
+I'm not keen on {pickles|food_name|hated_food}
+I avoid {black licorice|food_name|hated_food}!
+I don't care for {tripe|food_name|hated_food}
+I'm not into {cottage cheese|food_name|hated_food}!
+I have an aversion to {raw onions|food_name|hated_food}
+I can't tolerate {beets|food_name|hated_food}!
+I'm not fond of {oysters|food_name|hated_food}
+I loathe {caviar|food_name|hated_food}!
+I detest {kale|food_name|hated_food}
+I'm not partial to {eggplant|food_name|hated_food}
+I find {raisins|food_name|hated_food} disagreeable
+I can't bear {spicy food|food_name|hated_food}!
+I'm not captivated by {mushrooms|food_name|hated_food}
+I don't appreciate {durian|food_name|hated_food}
+I have a strong dislike for {snails|food_name|hated_food}

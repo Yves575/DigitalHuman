@@ -1,0 +1,10 @@
+I follow a {Beegan|meal_type} diet.
+I am a {Flexitarian|meal_type} eater.
+My dietary preference is {Fruitarian|meal_type}.
+I adhere to a {Kosher|meal_type} diet.
+I follow a {Muslim|meal_type} dietary lifestyle.
+I am a {Paleotarian|meal_type} enthusiast.
+My dietary choice is {Pescatarian|meal_type}.
+I am a {Raw foodie|meal_type} devotee.
+I am a committed {Vegan|meal_type}.
+I follow a {Vegetarian|meal_type} diet.

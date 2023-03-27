@@ -1,0 +1,20 @@
+I am a diabetic.
+I have asthma.
+I suffer from hypertension.
+I am a person with allergies.
+I am lactose intolerant.
+I have no health issues.
+I have celiac disease.
+I am an individual with arthritis.
+I am a migraine sufferer.
+I have been diagnosed with Crohn's disease.
+I live with epilepsy.
+I am a person with a heart condition.
+I am someone with anxiety.
+I suffer from chronic back pain.
+I am a person with irritable bowel syndrome (IBS).
+I am an individual with fibromyalgia.
+I have a thyroid disorder.
+I am living with sleep apnea.
+I have been diagnosed with an autoimmune disorder.
+I am a healthy individual with no known medical conditions.

@@ -1,0 +1,10 @@
+I'm allergic to {tree nuts|allergen_name}.
+{Gluten|allergen_name} cause an allergic reaction for me.
+I suffer from a {Milk|allergen_name} allergy.
+I experience allergic reactions to {seeds|allergen_name}.
+{Fish|allergen_name} trigger my allergies.
+My body reacts negatively to {Celery|allergen_name}.
+I cannot tolerate {eggs|allergen_name} due to an allergy.
+I have a sensitivity to {soy|allergen_name}.
+I'm affected by a {wheat|allergen_name} allergy.
+{Mustard seeds|allergen_name} are an allergen for me.
