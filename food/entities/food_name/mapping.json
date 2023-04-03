@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Chicken",
+      "macro": "Protein",
+      "kcal": "200",
+      "type": "Main",
+    },
+	{
+      "name": "Apple",
+      "macro": "Carbohydrate",
+      "kcal": "60",
+      "type": "Dessert",
+    },
+	{
+      "name": "Oil",
+      "macro": "Lipid",
+      "kcal": "500",
+      "type": "Sauce",
+    }
+]
