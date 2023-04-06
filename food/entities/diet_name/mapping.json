@@ -1,0 +1,5 @@
+{
+  "id": "diet_type",
+  "cname": "Diet Type",
+  "whitelist": "gazetteer.txt"
+}

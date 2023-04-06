@@ -19,9 +19,9 @@ def prompt_for_allergen(request, responder):
     responder.reply("Ok we have your allergen what's your meal type ?")
     responder.listen()
 
-@app.handle(intent = 'get_meal_type')
+@app.handle(intent = 'get_diet_type')
 def prompt_for_recipe(request, responder):
-    responder.reply("Ok we have your meal type what's your food liked ?")
+    responder.reply("Ok we have your diet type what's your food liked ?")
     responder.listen()
 
 @app.handle(intent = 'get_food')

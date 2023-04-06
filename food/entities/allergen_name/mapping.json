@@ -1,8 +1,5 @@
-[
-    {
-        "name": "lactose"
-    },
-    {
-        "name": "soat"
-    }
+{
+  "id": "allergen_name",
+  "cname": "Allergen Name",
+  "whitelist": "gazetteer.txt"
 }
