@@ -1,20 +1,20 @@
-I'm {20|year} years old.
-I'm {22|year} years of age.
-My age is {25|year} years.
-I just turned {30|year} years old.
-I recently celebrated my {27|year}th birthday.
-I am currently {35|year} years old.
-I've reached {40|year} years of age.
-I am {29|year} years old at the moment.
-I'm in my {33|year}rd year of life.
-I am {26|year} years old now.
-I am at the age of {45|year} years.
-I currently have {31|year} years under my belt.
-I am {28|year} years old and counting.
-My current age is {37|year} years.
-I have completed {24|year} years of my life.
-I'm in my {50|year}th year on this planet.
-I am living my {23|year}rd year of life.
-I've lived {42|year} years so far.
-I've been alive for {32|year} years.
-I am {38|year} years old today.
+I'm 20 years old.
+I'm 22 years of age.
+My age is 25 years.
+I just turned 30 years old.
+I recently celebrated my 27th birthday.
+I am currently 35 years old.
+I've reached 40 years of age.
+I am 29 years old at the moment.
+I'm in my 33 yearof life.
+I am 26 years old now.
+I am at the age of 45 years.
+I currently have 31 years under my belt.
+I am 28 years old and counting.
+My current age is 37 years.
+I have completed 24 years of my life.
+I'm in my 50th year on this planet.
+I am living my 23rd year of life.
+I've lived 42 years so far.
+I've been alive for 32 years.
+I am 38 years old today.
