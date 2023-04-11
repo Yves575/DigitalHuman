@@ -18,3 +18,23 @@ I'm a young man.
 I'm a young woman.
 I am a man by birth.
 I am a woman by birth.
+I am a male individual.
+I identify as a female person.
+I am a member of the male sex.
+I am a member of the female sex.
+My gender is masculine.
+My gender is feminine.
+I am a male-identifying person.
+I am a female-identifying person.
+I am a male by identity.
+I am a female by identity.
+I am a person of male gender.
+I am a person of female gender.
+I am a man in terms of gender.
+I am a woman in terms of gender.
+I am a cis man.
+I am a cis woman.
+My gender identity is male.
+My gender identity is female.
+I am an individual with a male gender identity.
+I am an individual with a female gender identity.

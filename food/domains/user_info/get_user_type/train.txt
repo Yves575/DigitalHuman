@@ -18,3 +18,23 @@ I have a thyroid disorder.
 I am living with sleep apnea.
 I have been diagnosed with an autoimmune disorder.
 I am a healthy individual with no known medical conditions.
+I am living with Type 2 diabetes.
+I have a history of bronchitis.
+I am dealing with high cholesterol.
+I have a food allergy.
+I am sensitive to gluten.
+I have a clean bill of health.
+I suffer from osteoporosis.
+I am an individual with multiple sclerosis.
+I experience frequent heartburn.
+I have been diagnosed with ulcerative colitis.
+I am living with Parkinson's disease.
+I am a person with a lung condition.
+I have a history of depression.
+I suffer from chronic knee pain.
+I am a person with gastroesophageal reflux disease (GERD).
+I am an individual with chronic fatigue syndrome.
+I have been diagnosed with a hormonal imbalance.
+I am living with narcolepsy.
+I have a connective tissue disorder.
+I am an individual with no significant health concerns.

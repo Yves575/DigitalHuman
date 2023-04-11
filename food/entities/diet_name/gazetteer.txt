@@ -1,6 +1,46 @@
 Vegetarian
 Vegan
+Pescatarian
+Flexitarian
+Lacto-vegetarian
+Ovo-vegetarian
+Lacto-ovo vegetarian
 Keto
-Muslim
-Kosher
-Beegan
+Paleo
+Mediterranean
+DASH (Dietary Approaches to Stop Hypertension)
+Low-carb
+Low-fat
+Gluten-free
+Dairy-free
+Sugar-free
+FODMAP (Low Fermentable Oligo-, Di-, Mono-saccharides And Polyols)
+Whole30
+Raw food
+Macrobiotic
+Ayurvedic
+Halal (Muslim)
+Kosher (Jewish)
+Beegan (Vegan + Bee products)
+Jain (No root vegetables)
+Sattvic (Ayurvedic diet)
+Intermittent fasting
+Calorie counting
+Plant-based
+Clean eating
+High-protein
+Zone diet
+Nutritarian
+Alkaline diet
+Blood type diet
+Weight Watchers (WW)
+Atkins
+South Beach
+Ornish diet
+Carnivore diet
+Low-sodium
+Low-glycemic
+Anti-inflammatory
+High-fiber
+Mindful eating
+Volumetrics

@@ -1,3 +1,100 @@
+Apples
+Bananas
+Grapes
+Oranges
+Strawberries
+Blueberries
+Raspberries
+Kiwi
+Mangoes
+Pineapples
+Tomatoes
+Cucumbers
+Carrots
+Bell peppers
+Spinach
+Broccoli
+Cauliflower
+Cabbage
+Onions
+Garlic
+Potatoes
+Sweet potatoes
+Rice
+Pasta
+Bread
+Oats
+Quinoa
+Couscous
 Chicken
-Apple
-Oil
+Turkey
+Beef
+Pork
+Lamb
+Fish
+Salmon
+Tuna
+Shrimp
+Lobster
+Crab
+Scallops
+Clams
+Mussels
+Oysters
+Octopus
+Squid
+Tofu
+Tempeh
+Seitan
+Beans
+Lentils
+Chickpeas
+Peas
+Edamame
+Almonds
+Walnuts
+Cashews
+Pecans
+Pistachios
+Hazelnuts
+Macadamia nuts
+Brazil nuts
+Dairy milk
+Soy milk
+Almond milk
+Oat milk
+Cheese
+Yogurt
+Butter
+Ice cream
+Dark chocolate
+Milk chocolate
+White chocolate
+Honey
+Maple syrup
+Agave nectar
+Olive oil
+Coconut oil
+Avocado oil
+Sesame oil
+Canola oil
+Sunflower oil
+Flaxseed oil
+Vinegar
+Soy sauce
+Hot sauce
+Mustard
+Ketchup
+Mayonnaise
+Pickles
+Olives
+Capers
+Artichokes
+Sun-dried tomatoes
+Anchovies
+Sardines
+Eggs
+Peanuts
+Shellfish
+Sesame seeds
+Popcorn
